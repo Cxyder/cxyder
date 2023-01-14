@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋 Cxyder is a NodeJS developer
+<sup>🌐 AKA: D4RKP0W (DARKPOW)</sup>
+
+Currently: Away 🟡
+<sub>Last Contribution: 10 August 2022</sub>
+
+<br></br>
+### 📂 Active Repositories:
+- 1️⃣ [Equity WMiner](https://github.com/Cxyder/equity_cracker)
+
+
+
 
 <!--
 **Cxyder/cxyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
