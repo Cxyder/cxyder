@@ -1,11 +1,11 @@
-### 👋 Cxyder is a NodeJS developer
-<sup>🌐 AKA: D4RKP0W (DARKPOW)</sup>
+### 👋 Cxyder is a Fullstack Web developer
 
-Currently: Away 🟡
-<sub>Last Contribution: 10 August 2022</sub>
+Currently: Active 🟢
+<sub>Reach me at https://numenatelier.it</sub>
+
 
 <br></br>
-### 📂 Active Repositories:
+### 📂 Old Repositories:
 - 1️⃣ [Equity WMiner](https://github.com/Cxyder/equity_cracker)
 
 
